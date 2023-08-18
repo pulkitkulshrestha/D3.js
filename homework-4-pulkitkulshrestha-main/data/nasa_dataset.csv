@@ -1,0 +1,153 @@
+serial_number,name,distance,stellar_magnitude,planet_type,discovery_year,mass_multiplier,mass_wrt,radius_multiplier,radius_wrt,orbital_radius,orbital_period,eccentricity,detection_method,detection_value
+1,47 Ursae Majoris c,45,5.03352,Gas Giant,2001,0.54,Jupiter,1.27,Jupiter,3.6,6.6,0.1,Radial Velocity,1
+2,HD 114783 b,69,7.56,Gas Giant,2001,1.1,Jupiter,1.23,Jupiter,1.16,1.351677,0.14,Radial Velocity,1
+3,HD 142 b,85,5.7,Gas Giant,2001,1.24444,Jupiter,1.22,Jupiter,1.038376,0.9620808,0.16,Radial Velocity,1
+4,HD 178911 B b,134,7.97,Gas Giant,2001,8.03,Jupiter,1.12,Jupiter,0.34,0.19575633,0.11,Radial Velocity,1
+5,HD 213240 b,133,6.81,Gas Giant,2001,5.58,Jupiter,1.14,Jupiter,1.89,2.4,0.42,Radial Velocity,1
+6,HD 23079 b,109,7.12,Gas Giant,2001,2.61,Jupiter,1.18,Jupiter,1.6,2,0.1,Radial Velocity,1
+7,xO-1 b,128,7.8,Gas Giant,2001,5.83181,Jupiter,1.14,Jupiter,1.034659,1.0554415,0.05,Radial Velocity,1
+8,HD 39091 b,60,5.65,Gas Giant,2001,12.23926,Jupiter,1.1,Jupiter,3.309065,5.7,0.64,Radial Velocity,1
+9,HD 4203 b,265,8.7,Gas Giant,2001,2.23,Jupiter,1.19,Jupiter,1.17,1.1824777,0.52,Radial Velocity,1
+10,HD 4208 b,112,7.783,Gas Giant,2001,0.81,Jupiter,1.24,Jupiter,1.662,2.3,0.04,Radial Velocity,1
+11,HD 68988 b,198,8.2,Gas Giant,2001,1.97,Jupiter,1.2,Jupiter,0.07,0.017248461,0.12,Radial Velocity,1
+12,HD 80606 b,217,9.06,Gas Giant,2001,4.38,Jupiter,1.07,Jupiter,0.4565,0.30499658,0.93,Radial Velocity,1
+1,HD 37124 c,103,7.68,Gas Giant,2002,0.652,Jupiter,1.25,Jupiter,1.71,2.4,0.13,Radial Velocity,1
+2,HD 40979 b,111,6.75512,Gas Giant,2002,4.67,Jupiter,1.15,Jupiter,0.85,0.7230664,0.25,Radial Velocity,1
+3,HD 47536 b,400,5.25,Gas Giant,2002,7.32,Jupiter,1.13,Jupiter,1.93,2,0.2,Radial Velocity,1
+4,HD 49674 b,140,8.1,Neptune-like,2002,31.783,Earth,0.553,Jupiter,0.06,0.013415469,0.09,Radial Velocity,1
+5,HD 50554 b,102,6.8561,Gas Giant,2002,4.954,Jupiter,1.15,Jupiter,2.353,3.5,0.5,Radial Velocity,1
+6,HD 72659 b,169,7.46,Gas Giant,2002,3.37143,Jupiter,1.17,Jupiter,4.689125,9.7,0.26,Radial Velocity,1
+7,HD 73526 b,317,8.99,Gas Giant,2002,3.08,Jupiter,1.17,Jupiter,0.65,0.5155373,0.19,Radial Velocity,1
+8,HD 76700 b,199,8.16,Gas Giant,2002,0.21,Jupiter,0.856,Jupiter,0.05,0.010951404,0.09,Radial Velocity,1
+9,HD 83443 b,133,8.23,Gas Giant,2002,0.402,Jupiter,1.25,Jupiter,0.0406,0.008213553,0.01,Radial Velocity,1
+10,HD 8574 b,146,7.12,Gas Giant,2002,2.03,Jupiter,1.19,Jupiter,0.76,0.62149215,0.3,Radial Velocity,1
+11,Iota Draconis b,102,3.29668,Gas Giant,2002,11.82,Jupiter,1.1,Jupiter,1.453,1.4,0.7,Radial Velocity,1
+12,OGLE-TR-56 b,923,15.3,Gas Giant,2002,1.39,Jupiter,1.363,Jupiter,0.02383,0.003285421,0.67,Transit,2
+1,HD 23596 b,170,7.26122,Gas Giant,2003,11.56265,Jupiter,1.11,Jupiter,2.692222,4.2,0.28,Radial Velocity,1
+2,HD 3651 b,36,5.88437,Gas Giant,2003,0.228,Jupiter,0.899,Jupiter,0.295,0.17056811,0.65,Radial Velocity,1
+3,HD 41004 B b,136,8.6078,Gas Giant,2003,18.37,Jupiter,1.08,Jupiter,0,0.003559206,0.08,Radial Velocity,1
+4,HD 6434 b,138,7.72,Gas Giant,2003,0.49,Jupiter,1.27,Jupiter,0.14,0.060232718,0.17,Radial Velocity,1
+5,HD 65216 b,115,7.97,Gas Giant,2003,1.295,Jupiter,1.22,Jupiter,1.301,1.6,0.27,Radial Velocity,1
+6,HD 70642 b,95,7.17,Gas Giant,2003,1.993,Jupiter,1.19,Jupiter,3.318,5.8,0.18,Radial Velocity,1
+7,HD 74156 b,188,7.61,Gas Giant,2003,1.67333,Jupiter,1.2,Jupiter,0.280148,0.1412731,0.64,Radial Velocity,1
+8,HD 74156 c,188,7.61,Gas Giant,2003,9.10703,Jupiter,1.12,Jupiter,3.676463,6.7,0.38,Radial Velocity,1
+9,HD 82943 b,90,6.54993,Gas Giant,2003,1.681,Jupiter,1.2,Jupiter,1.18306,1.2087611,0.16,Radial Velocity,1
+10,HD 82943 c,90,6.54993,Gas Giant,2003,1.959,Jupiter,1.2,Jupiter,0.74345,0.602601,0.37,Radial Velocity,1
+11,PSR B1620-26 b,0,0,Gas Giant,2003,2.5,Jupiter,1.18,Jupiter,23,95,0,Pulsar Timing,3
+1,2MASS J12073346-3932539 b,210,20.15,Gas Giant,2004,5,Jupiter,1.15,Jupiter,55,2885.9,0,Direct Imaging,4
+2,55 Cancri c,41,5.95084,Gas Giant,2004,0.1714,Jupiter,0.76,Jupiter,0.2373,0.12156058,0.03,Radial Velocity,1
+3,55 Cancri e,41,5.95084,Super Earth,2004,7.99,Earth,1.875,Earth,0.01544,0.001916496,0.05,Radial Velocity,1
+4,DH Tauri b,440,13.98,Gas Giant,2004,11,Jupiter,2.7,Jupiter,330,10441.5,0,Direct Imaging,4
+5,GJ 436 b,32,10.67,Neptune-like,2004,22.1,Earth,0.372,Jupiter,0.0291,0.007118412,0.14,Radial Velocity,1
+6,GQ Lupi b,493,11.593,Gas Giant,2004,20,Jupiter,3,Jupiter,100,1195.9,0,Direct Imaging,4
+7,HD 117207 b,106,7.26,Gas Giant,2004,1.926,Jupiter,1.2,Jupiter,3.787,7.2,0.16,Radial Velocity,1
+8,HD 117618 b,123,7.17,Gas Giant,2004,0.174,Jupiter,0.766,Jupiter,0.18,0.07063655,0.15,Radial Velocity,1
+9,HD 154857 b,207,7.24,Gas Giant,2004,2.45,Jupiter,1.18,Jupiter,1.29,1.1186858,0.46,Radial Velocity,1
+10,HD 160691 c,51,5.12,Gas Giant,2004,4.4,Jupiter,0,0,4.17,10.8,0.1,Radial Velocity,1
+11,HD 160691 d,51,5.12,Neptune-like,2004,10.17,Earth,0.283,Jupiter,0.09286,0.026283368,0,Radial Velocity,1
+12,HD 183263 b,177,7.86,Gas Giant,2004,3.46739,Jupiter,1.17,Jupiter,1.459291,1.7,0.38,Radial Velocity,1
+13,HD 99492 b,59,7.56727,Neptune-like,2004,22.2481,Earth,0.448,Jupiter,0.12,0.046543464,0.25,Radial Velocity,1
+14,OGLE-2003-BLG-235L b,18920,0,Gas Giant,2004,2.6,Jupiter,1.18,Jupiter,4.3,11.2,0,Gravitational Microlensing,5
+15,OGLE-TR-10 b,4387,16.006,Gas Giant,2004,0.62,Jupiter,1.25,Jupiter,0.0434,0.008487337,0.82,Transit,2
+16,OGLE-TR-111 b,3485,16.707,Gas Giant,2004,0.55,Jupiter,1.019,Jupiter,0.0473,0.010951404,0.54,Transit,2
+17,OGLE-TR-113 b,1848,15.8485,Gas Giant,2004,1.26,Jupiter,1.093,Jupiter,0.02289,0.003832991,0.15,Transit,2
+18,OGLE-TR-132 b,6565,16.536,Gas Giant,2004,1.18,Jupiter,1.2,Jupiter,0.03035,0.004654347,0.6,Transit,2
+19,TrES-1 b,521,11.424,Gas Giant,2004,0.84,Jupiter,1.13,Jupiter,0.03925,0.008213553,0,Transit,2
+1,AB Pictoris b,163,9.13,Gas Giant,2005,13.5,Jupiter,1.1,Jupiter,260,4421.7,0,Direct Imaging,4
+2,GJ 581 b,21,10.57,Neptune-like,2005,15.8,Earth,0.366,Jupiter,0.04061,0.014784395,0,Radial Velocity,1
+3,GJ 876 d,15,10.16,Neptune-like,2005,6.83,Earth,0.224,Jupiter,0.020807,0.005201916,0.21,Radial Velocity,1
+4,HD 101930 b,98,8.21,Gas Giant,2005,0.25,Jupiter,0.949,Jupiter,0.3,0.19301848,0.11,Radial Velocity,1
+5,HD 102117 b,129,7.47,Gas Giant,2005,0.17,Jupiter,0.756,Jupiter,0.15,0.056947295,0.12,Radial Velocity,1
+6,HD 189733 b,64,7.67,Gas Giant,2005,1.13,Jupiter,1.13,Jupiter,0.03126,0.006023272,0,Radial Velocity,1
+7,HD 190360 c,52,5.738,Neptune-like,2005,19.069,Earth,0.409,Jupiter,0.1304,0.04681725,0.24,Radial Velocity,1
+8,HD 212301 b,177,7.76,Gas Giant,2005,0.51,Jupiter,1.27,Jupiter,0.03,0.006023272,0,Radial Velocity,1
+9,HD 217107 c,65,6.155,Gas Giant,2005,2.6,Jupiter,1.18,Jupiter,5.32,11.7,0.52,Radial Velocity,1
+10,HD 37124 d,103,7.68,Gas Giant,2005,0.696,Jupiter,1.25,Jupiter,2.807,5.1,0.16,Radial Velocity,1
+11,HD 4308 b,72,6.55,Neptune-like,2005,15.8915,Earth,0.368,Jupiter,0.12,0.042710472,0,Radial Velocity,1
+12,HD 50499 b,151,7.21,Gas Giant,2005,1.636,Jupiter,1.2,Jupiter,3.833,6.7,0.27,Radial Velocity,1
+13,HD 99109 b,179,9.1,Gas Giant,2005,0.44,Jupiter,1.28,Jupiter,1.11,1.2027378,0.09,Radial Velocity,1
+14,HIP 14810 b,165,8.520001,Gas Giant,2005,3.9,Jupiter,1.16,Jupiter,0.0696,0.0183436,0.14,Radial Velocity,1
+15,OGLE-2005-BLG-071L b,10438,0,Gas Giant,2005,3.8,Jupiter,1.16,Jupiter,3.6,10.1,0,Gravitational Microlensing,5
+16,OGLE-2005-BLG-390L b,21529,0,Neptune-like,2005,5.5,Earth,2.21,Earth,2.6,9,0,Gravitational Microlensing,5
+1,4 Ursae Majoris b,240,4.5801,Gas Giant,2006,7.1,Jupiter,1.13,Jupiter,0.87,0.7373032,0.43,Radial Velocity,1
+2,CHXR 73 b,621,0,Gas Giant,2006,12.569,Jupiter,1.1,Jupiter,210,5146.9,0,Direct Imaging,4
+3,Epsilon Tauri b,155,3.523,Gas Giant,2006,7.6,Jupiter,1.13,Jupiter,1.93,1.6,0.15,Radial Velocity,1
+4,GJ 849 b,29,10.41,Gas Giant,2006,0.9,Jupiter,1.24,Jupiter,2.409,5.2,0.04,Radial Velocity,1
+5,HAT-P-1 b,519,9.827,Gas Giant,2006,0.525,Jupiter,1.319,Jupiter,0.05561,0.012320329,0,Transit,2
+6,HD 102195 b,96,8.07,Gas Giant,2006,0.41,Jupiter,1.27,Jupiter,0.05,0.011225188,0,Radial Velocity,1
+7,HD 10647 b,57,5.52,Gas Giant,2006,0.94,Jupiter,1.23,Jupiter,2.015,2.7,0.15,Radial Velocity,1
+8,HD 62509 b,34,1.12512,Gas Giant,2006,2.3,Jupiter,1.19,Jupiter,1.64,1.6,0.02,Radial Velocity,1
+9,HD 69830 b,41,5.96004,Neptune-like,2006,10.2,Earth,0.283,Jupiter,0.0785,0.023819301,0.1,Radial Velocity,1
+10,HD 69830 c,41,5.96004,Neptune-like,2006,11.8,Earth,0.309,Jupiter,0.186,0.08651608,0.13,Radial Velocity,1
+11,HD 69830 d,41,5.96004,Neptune-like,2006,18.1,Earth,0.397,Jupiter,0.63,0.5393566,0.07,Radial Velocity,1
+12,HD 86081 b,339,8.73,Gas Giant,2006,1.48,Jupiter,1.21,Jupiter,0.0346,0.005749486,0.01,Radial Velocity,1
+13,HIP 14810 c,165,8.520001,Gas Giant,2006,1.31,Jupiter,1.22,Jupiter,0.549,0.40438056,0.16,Radial Velocity,1
+14,HN Pegasi b,59,5.97707,Gas Giant,2006,21.9987,Jupiter,1.051,Jupiter,773,20692.2,0,Direct Imaging,4
+15,OGLE-2005-BLG-169L b,13374,22.783,Neptune-like,2006,14.1,Earth,0.343,Jupiter,3.5,7.9,0,Gravitational Microlensing,5
+16,Ophiuchi 11 b,444,0,Gas Giant,2006,14,Jupiter,1.1,Jupiter,243,20000,0,Direct Imaging,4
+17,SWEEPS-11 b,27727,19.83,Gas Giant,2006,9.7,Jupiter,1.13,Jupiter,0.03,0.004928131,0,Transit,2
+18,SWEEPS-4 b,27727,18.8,Gas Giant,2006,3.8,Jupiter,0.81,Jupiter,0.055,0.011498973,0,Transit,2
+19,TrES-2 b,702,11.254,Gas Giant,2006,1.49,Jupiter,1.36,Jupiter,0.03563,0.006844627,0,Transit,2
+20,XO-1 b,534,11.251,Gas Giant,2006,0.83,Jupiter,1.14,Jupiter,0.0488,0.010677618,0,Transit,2
+1,11 Comae Berenices b,304,4.72307,Gas Giant,2007,19.4,Jupiter,1.08,Jupiter,1.29,0.8925394,0.23,Radial Velocity,1
+2,55 Cancri f,41,5.95084,Gas Giant,2007,0.141,Jupiter,0.677,Jupiter,0.7708,0.7115674,0.08,Radial Velocity,1
+3,BD-13 2130 b,3018,10.038,Gas Giant,2007,9.78,Jupiter,1.11,Jupiter,1.66,2,0.21,Radial Velocity,1
+4,CT Chamaleontis b,622,12.335,Gas Giant,2007,17,Jupiter,2.2,Jupiter,440,0.99931556,0,Direct Imaging,4
+5,GJ 317 b,50,12.4,Gas Giant,2007,2.5,Jupiter,1.18,Jupiter,1.151,1.9,0.07,Radial Velocity,1
+6,GJ 581 c,21,10.57,Neptune-like,2007,5.5,Earth,2.21,Earth,0.0721,0.035318274,0,Radial Velocity,1
+7,GJ 674 b,15,9.38,Neptune-like,2007,11.09,Earth,0.297,Jupiter,0.039,0.012867898,0.2,Radial Velocity,1
+8,HAT-P-2 b,417,8.72,Gas Giant,2007,8.7,Jupiter,0.951,Jupiter,0.06814,0.015331964,0.52,Transit,2
+9,HAT-P-3 b,439,11.856,Gas Giant,2007,0.65,Jupiter,0.94,Jupiter,0.03866,0.007939767,0,Transit,2
+10,Kappa Coronae Borealis b,98,4.79734,Gas Giant,2007,2,Jupiter,1.19,Jupiter,2.76,3.4,0.06,Radial Velocity,1
+11,WASP-1 b,1282,11.308,Gas Giant,2007,0.854,Jupiter,1.483,Jupiter,0.03889,0.006844627,0,Transit,2
+12,WASP-2 b,500,11.728,Gas Giant,2007,0.931,Jupiter,1.081,Jupiter,0.03144,0.006023272,0.01,Transit,2
+13,WASP-3 b,754,10.632,Gas Giant,2007,2.43,Jupiter,1.42,Jupiter,0.0315,0.004928131,0,Transit,2
+14,WASP-4 b,872,12.483,Gas Giant,2007,1.186,Jupiter,1.321,Jupiter,0.0226,0.003559206,0,Transit,2
+15,Xi Aquilae b,183,4.70964,Gas Giant,2007,2.8,Jupiter,1.18,Jupiter,0.68,0.374538,0,Radial Velocity,1
+16,XO-2 N b,503,11.246,Gas Giant,2007,0.566,Jupiter,0.993,Jupiter,0.0368,0.007118412,0.03,Transit,2
+17,XO-3 b,695,9.854,Gas Giant,2007,7.29,Jupiter,1.41,Jupiter,0.0476,0.008761123,0.29,Transit,2
+1,14 Andromedae b,246,5.23133,Gas Giant,2008,4.8,Jupiter,1.15,Jupiter,0.83,0.5086927,0,Radial Velocity,1
+2,18 Delphini b,249,5.51048,Gas Giant,2008,10.3,Jupiter,1.11,Jupiter,2.6,2.7,0.08,Radial Velocity,1
+3,1RXS J160929.1-210524 b,454,12.618,Gas Giant,2008,8,Jupiter,1.664,Jupiter,330,6505.9,0,Direct Imaging,4
+4,42 Draconis b,296,4.8262,Gas Giant,2008,3.88,Jupiter,1.16,Jupiter,1.19,1.3117043,0.38,Radial Velocity,1
+5,6 Lyncis b,178,5.87307,Gas Giant,2008,2.01,Jupiter,1.19,Jupiter,2.11,2.6,0.07,Radial Velocity,1
+6,81 Ceti b,330,5.64307,Gas Giant,2008,5.3,Jupiter,1.14,Jupiter,2.5,2.6,0.21,Radial Velocity,1
+7,BD-17 63 b,112,9.62,Gas Giant,2008,5.1,Jupiter,1.15,Jupiter,1.34,1.8,0.54,Radial Velocity,1
+8,Beta Pictoris b,64,3.85,Gas Giant,2008,11.73313,Jupiter,1.65,Jupiter,10.019926,23.6,0.11,Direct Imaging,4
+9,CoRoT-1 b,2570,13.623,Gas Giant,2008,1.03,Jupiter,1.49,Jupiter,0.02752,0.004106776,0,Transit,2
+10,CoRoT-2 b,696,12.516,Gas Giant,2008,3.47,Jupiter,1.466,Jupiter,0.02798,0.004654347,0.01,Transit,2
+11,CoRoT-3 b,2508,13.448,Gas Giant,2008,21.66,Jupiter,1.01,Jupiter,0.05783,0.011772759,0,Transit,2
+12,CoRoT-4 b,2370,13.652,Gas Giant,2008,0.72,Jupiter,1.19,Jupiter,0.09,0.025188226,0,Transit,2
+13,FU Tauri b,435,0,Gas Giant,2008,16,Jupiter,1.09,Jupiter,800,101250.8,0,Direct Imaging,4
+14,GJ 832 b,16,8.66,Gas Giant,2008,0.68,Jupiter,1.25,Jupiter,3.56,10,0.08,Radial Velocity,1
+15,HAT-P-11 b,123,9.46,Neptune-like,2008,26.69772,Earth,0.389,Jupiter,0.05254,0.013415469,0.22,Transit,2
+16,HAT-P-7 b,1113,10.481,Gas Giant,2008,1.84,Jupiter,1.51,Jupiter,0.03676,0.006023272,0,Transit,2
+17,MOA-2007-BLG-192L b,3262,,Super Earth,2008,3.3,Earth,1.63,Earth,0.62,2,0,Gravitational Microlensing,5
+1,11 Ursae Minoris b,409,5.013,Gas Giant,2009,14.74,Jupiter,1.09,Jupiter,1.53,1.4,0.08,Radial Velocity,1
+2,CoRoT-7 b,522,11.728,Super Earth,2009,4.07661,Earth,1.681,Earth,0.017016,0.002464066,0,Transit,2
+3,CoRoT-7 c,522,11.728,Neptune-like,2009,8.4,Earth,0.253,Jupiter,0.046,0.010130048,0,Radial Velocity,1
+4,CoRoT-9 b,1347,13.637,Gas Giant,2009,0.84,Jupiter,1.066,Jupiter,0.4021,0.2609172,0.13,Transit,2
+5,DP Leonis b,997,18.6837,Gas Giant,2009,6.28,Jupiter,1.14,Jupiter,8.19,28,0.39,Eclipse Timing Variations,6
+6,gam1 Leonis b,130,1.99509,Gas Giant,2009,8.78,Jupiter,1.12,Jupiter,1.19,1.173169,0.14,Radial Velocity,1
+7,GJ 1214 b,48,15.1,Neptune-like,2009,8.17,Earth,0.245,Jupiter,0.0149,0.004380561,0.063,Transit,2
+8,GJ 179 b,40,11.963,Gas Giant,2009,0.82,Jupiter,1.24,Jupiter,2.41,6.3,0.21,Radial Velocity,1
+9,HAT-P-12 b,466,12.665,Gas Giant,2009,0.211,Jupiter,0.959,Jupiter,0.0384,0.008761123,0,Transit,2
+10,HD 40307 b,42,7.17,Super Earth,2009,4,Earth,1.83,Earth,0.0468,0.011772759,0.2,Radial Velocity,1
+11,Kepler-4 b,1592,12.285,Neptune-like,2009,24.472,Earth,0.357,Jupiter,0.0456,0.008761123,0,Transit,2
+12,OGLE-2007-BLG-368L b,19246,17.71,Neptune-like,2009,20,Earth,0.421,Jupiter,2.8,5.9,0,Gravitational Microlensing,5
+13,WASP-13 b,742,10.424,Gas Giant,2009,0.36,Jupiter,1.22,Jupiter,0.05362,0.012046544,0,Transit,2
+1,24 Sextantis b,235,6.4535,Gas Giant,2010,1.99,Jupiter,1.19,Jupiter,1.333,1.2396988,0.09,Radial Velocity,1
+2,24 Sextantis c,235,6.4535,Gas Giant,2010,0.86,Jupiter,1.24,Jupiter,2.08,2.4,0.29,Radial Velocity,1
+3,Alpha Arietis b,66,2.00538,Gas Giant,2010,1.8,Jupiter,1.2,Jupiter,1.2,1.0425736,0.25,Radial Velocity,1
+4,CoRoT-10 b,1104,15.293,Gas Giant,2010,2.75,Jupiter,0.97,Jupiter,0.1055,0.03613963,0.53,Transit,2
+5,CoRoT-11 b,2137,12.897,Gas Giant,2010,2.33,Jupiter,1.43,Jupiter,0.0436,0.008213553,0,Transit,2
+6,GJ 1148 b,36,11.939,Gas Giant,2010,0.30425,Jupiter,1.07,Jupiter,0.166,0.113347024,0.38,Radial Velocity,1
+7,GJ 3634 b,66,11.938,Neptune-like,2010,8.4,Earth,0.253,Jupiter,0.0287,0.007118412,0.08,Radial Velocity,1
+8,HAT-P-15 b,628,12.41,Gas Giant,2010,1.94,Jupiter,1.06,Jupiter,0.0965,0.029842572,0.19,Transit,2
+9,HAT-P-16 b,739,10.911,Gas Giant,2010,4.193,Jupiter,1.289,Jupiter,0.0413,0.007665982,0.04,Transit,2
+10,HAT-P-17 b,301,10.375,Gas Giant,2010,0.58,Jupiter,1.05,Jupiter,0.0882,0.028199865,0.35,Transit,2
+11,HD 10180 g,127,7.33,Neptune-like,2010,21.4,Earth,0.438,Jupiter,1.427,1.7,0.26,Radial Velocity,1
+12,HD 10180 h,127,7.33,Gas Giant,2010,0.203,Jupiter,0.838,Jupiter,3.381,6,0.1,Radial Velocity,1
+13,HD 97658 b,70,7.76,Super Earth,2010,8.3,Earth,2.12,Earth,0.0805,0.026009582,0.05,Radial Velocity,1
+14,HD 102365 b,30,4.89,Neptune-like,2010,16,Earth,0.369,Jupiter,0.46,0.33429158,0.34,Radial Velocity,1
+15,HD 102956 b,398,7.86,Gas Giant,2010,0.96,Jupiter,1.23,Jupiter,0.0807,0.01779603,0.04,Radial Velocity,1
